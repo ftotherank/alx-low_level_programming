@@ -4,3 +4,4 @@ a script that generates the aeembly code of c
 a script that compiles c and creates an exececutable cisfun
 outputting words using put
 printing with prinf
+Write a C program that prints the size of various types on the computer it is compiled and run on
