@@ -3,3 +3,4 @@ a c file that runs the script through a preprocessors and save the result to ano
 a script that generates the aeembly code of c
 a script that compiles c and creates an exececutable cisfun
 outputting words using put
+printing with prinf
